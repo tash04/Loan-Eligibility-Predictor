@@ -22,4 +22,3 @@ The models are assessed using the following metrics:
 ## Visualizations
 Visualizations were created to analyze data trends and model performance using Matplotlib.
 
-# Loan-Eligibility-Predictor
